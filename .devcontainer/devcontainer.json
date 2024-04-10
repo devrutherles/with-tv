@@ -7,10 +7,6 @@
 			"build-tools": "33.0.2"
 		},
 		"ghcr.io/nordcominc/devcontainer-features/android-sdk:1": {},
-		"ghcr.io/devcontainers-contrib/features/jmc-sdkman:2": {
-			"version": "latest",
-			"jdkVersion": "17",
-			"jdkDistro": "open"
-		}
+		
 	}
 }
